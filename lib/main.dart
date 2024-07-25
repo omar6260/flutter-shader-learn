@@ -4,7 +4,7 @@ import 'dart:ui';
 import 'package:flutter/material.dart';
 
 
-import 'package:my_shader_app/presentation/widget/Animated_shader_widget.dart';
+import 'package:my_shader_app/presentation/widget/animated_shader_widget.dart';
 
 late FragmentProgram fragmentProgram;
 Future<void> main() async {
